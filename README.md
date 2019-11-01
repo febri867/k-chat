@@ -1,6 +1,6 @@
-## SWAI
+## K-CHAT
 
-Please visit this link: http://febri-swai.surge.sh/ for live preview.
+Please visit this link: [febri-k-chat.surge.sh](febri-k-chat.surge.sh) for live preview.
 
 ## Codes Structure
 
